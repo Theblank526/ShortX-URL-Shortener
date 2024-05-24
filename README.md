@@ -1,30 +1,3 @@
-<h1> URL Shortener </h1>
-
-## **This is a full-stack project where users can easily create shortened and encrypted URLs.**
-
-### API Explanation at the end.
-
-<br/>
-<br/>
-
-
-https://github.com/bkizilkayaa/url-shortener/assets/88281419/94f0a186-45e2-4d41-9b25-6618a6b0fa1a
-
-<br/>
-<img src='frontend/src/img/expl1.png'/>
-<br/>
-<img src='frontend/src/img/expl2.png'/>
-<br/>
-<br/>
-
-## If there is no valid domain input:
-
-<br/>
-
-<img src='frontend/src/img/expl3.png'/>
-
-<br/>
-
 # **API Explanation** 
 
 ## 1-) Get All Shortened URLs 
