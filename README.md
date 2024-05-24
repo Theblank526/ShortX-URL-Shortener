@@ -14,7 +14,6 @@
 + localhost:8080/api/v1/url
 ```
 
-<img src='frontend/src/img/getMethodExample.png' style="width:500px"/>
 <br/> <br/>
 
 ## 2-) Generate Shortened URL 
