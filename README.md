@@ -62,6 +62,4 @@
 + localhost:8080/api/v1/url/{shortLink}
 ```
 
-<br/>
-
-#### This project is running on localhost. The video shows a domain like "shortener.com" but that domain does not belong to me. I just added it that way to make it look nice. If I buy the domain one day, the url will look like that. 
+<br>
